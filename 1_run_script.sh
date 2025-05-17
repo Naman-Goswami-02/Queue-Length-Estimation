@@ -1,0 +1,18 @@
+! bin/bash
+python src.pipeline.extractor.py --input_video "D:\IIT Roorkee\queue-length-estimation-main\TVC 23 RBI square\TVC - 23 (17-Jan-2024)\2024011711\05M29S_1705469729.mp4"
+
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/44M49S_1705558489.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/45M49S_1705558549.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/46M49S_1705558609.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/47M49S_1705558669.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/48M49S_1705558729.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/49M49S_1705558789.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/50M49S_1705558849.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/51M49S_1705558909.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/52M49S_1705558969.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/53M49S_1705559029.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/54M49S_1705559089.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/55M49S_1705559149.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/56M49S_1705559209.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/57M49S_1705559269.mp4"
+# python main.py --input_video "/media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH NMC/TVC - 23 (18-Jan-2024)/2024011811/58M49S_1705559329.mp4"

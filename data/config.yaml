@@ -1,0 +1,14 @@
+# model_weights: /home/user1/codes/model_training/runs/detect/ITD_v1.2_xl/weights/best.pt
+model_weights: r"D:\IIT Roorkee\queue-length-estimation-main\weights\best_ITD_aug.pt"
+image_size: 992
+device_id: cpu
+is_save_vid: True
+input_video: null
+# input_video: /media/user1/Local storage 10/data/IAHE/NAGPUR/TVC 23 - RBI Square/VIDEO/VIDEOS/TVC - 23 RBI SCQURE QUEUE LENGTH WARDHA/TVC - 23 (18-Jan-2024)/2024011811/06M03S_1705556163.mp4
+input_video: r"D:\IIT Roorkee\queue-length-estimation-main\TVC 23 RBI square\TVC - 23 (17-Jan-2024)\2024011711\34M29S_1705471469.mp4"
+location: TVC - 23 RBI SCQURE QUEUE LENGTH WARDHA
+skip_frames: 3
+speed_thres: 3
+num_thres: 2
+x_thres: 620
+record_freq: 30

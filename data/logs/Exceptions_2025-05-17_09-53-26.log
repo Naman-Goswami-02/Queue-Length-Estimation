@@ -1,0 +1,7 @@
+[ 2025-05-17 09:53:27,198 ] 78 root - INFO - *********************************Model loaded successfully****************************************************.
+[ 2025-05-17 09:53:27,198 ] 100 root - ERROR - Error occured in python script name [D:\IIT Roorkee\queue-length-estimation-main\src\utils.py] line number [90] error message [Location Data Loading Failed [TVC - 23 RBI SCQURE QUEUE LENGTH WARDHA]]
+Traceback (most recent call last):
+  File "D:\IIT Roorkee\queue-length-estimation-main\src\utils.py", line 90, in load_location_data
+    with open(data_path, "r") as file:
+         ~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\IIT Roorkee\\queue-length-estimation-main\\data\\locations.yaml'
